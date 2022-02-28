@@ -1,0 +1,1053 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A dying fathers living legacy, to his loving son or, lively rules from the rule of life, to bee lived by every mothers childe. / By F.S. Gent.</title>
+            <author>F. S.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 74 KB of XML-encoded text transcribed from 77 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92783</idno>
+            <idno type="STC">Wing S22</idno>
+            <idno type="STC">Thomason E2105_2</idno>
+            <idno type="STC">ESTC R210143</idno>
+            <idno type="EEBO-CITATION">99868969</idno>
+            <idno type="PROQUEST">99868969</idno>
+            <idno type="VID">121326</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92783)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 121326)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 240:E2105[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A dying fathers living legacy, to his loving son or, lively rules from the rule of life, to bee lived by every mothers childe. / By F.S. Gent.</title>
+                  <author>F. S.</author>
+               </titleStmt>
+               <extent>[10], 137, [5] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for the authour, and are to bee sold by Elisha Wallis at the gilded Horse-shooe in the Old Bayley,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>The final leaf has "The dying fathers living legacy" printed vertically.</note>
+                  <note>Annotation on Thomason copy: "1659 Jan:".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Aphorisms and apothegms --  Early works to 1800.</term>
+               <term>Christian ethics --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-12</date>
+            <label>Louis Goldberg</label>Sampled and proofread</change>
+         <change>
+            <date>2012-12</date>
+            <label>Louis Goldberg</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:121326:1" rendition="simple:additions"/>
+            <p>A Dying Fathers Living Legacy, to his Loving SON: OR, Lively RULES from the Rule of Life, to bee lived by every Mothers Childe.</p>
+            <q>
+               <bibl>
+                  <hi>Prov. 4.1.</hi>
+               </bibl>
+               <p>Hear, O yee Children, the inſtruction of a Father, and give ear to learn un<g ref="char:EOLhyphen"/>derſtanding.</p>
+            </q>
+            <p>By F. S. Gent.</p>
+            <p>Printed for the Authour, And are to bee ſold by <hi>Eliſha Wallis</hi> at the gilded Horſe-ſhooe in the Old Bayley.</p>
+            <p>1660.</p>
+         </div>
+         <div type="authors_note">
+            <pb facs="tcp:121326:2"/>
+            <pb facs="tcp:121326:2"/>
+            <head>Dear Childe.</head>
+            <p>
+               <seg rend="decorInit">I</seg> Have been at work for thee, heart and hand; it lieth upon thee as a duty now, to perfect what I have begun, to get theſe notions into thy heart by prayer, and let o<g ref="char:EOLhyphen"/>thers read them in thy life by practiſe. The Specula<g ref="char:EOLhyphen"/>tive part of Religion, is not
+<pb facs="tcp:121326:3"/>comparable to the practi<g ref="char:EOLhyphen"/>cal. Begin in the Spirit, oh but take heed you end not in the fleſh. Satan is ſubtile, I know his devices; the world is tempting, take heed of its flatteries; the heart is naught, beware of its deceits; Keep thy heart with all keeping, and yet do what thou canſt, Corruption will break out; but let not ſin have a free paſſage to go in and out at pleaſure.</p>
+            <p>Mind nothing but the one
+<pb facs="tcp:121326:3"/>thing neceſſary, union with Chriſt, and never let it be thy aim to make thy ſelf glorious in the world, but to glorifie God in the world. They only that follow ho<g ref="char:EOLhyphen"/>lineſs in this life, ſhall at<g ref="char:EOLhyphen"/>tain to happineſs in the life to come. Be as holy as e<g ref="char:EOLhyphen"/>ver thou canſt, the more holy here, the more happy hereafter; without holi<g ref="char:EOLhyphen"/>neſs no happineſs. It is not thine but Chriſts.</p>
+            <p>Thou wilt finde an op<g ref="char:EOLhyphen"/>poſition in the practice of
+<pb facs="tcp:121326:4"/>Religion; when you think your ſelf ſureſt, then ſuſ<g ref="char:EOLhyphen"/>pect your ſelf moſt; though thou ſhouldeſt get a foyl, yet lay not down thy wea<g ref="char:EOLhyphen"/>pons, and ſay, I will fight no more. Hee that con<g ref="char:EOLhyphen"/>tinues faithful unto the death, ſhall receive a crown of life. Get wiſdome, and get underſtanding; the fear of the Lord, that is wiſ<g ref="char:EOLhyphen"/>dome, and to depart from iniquity, that is under<g ref="char:EOLhyphen"/>ſtanding: ſo ſhalt thou crown the work, and not
+<pb facs="tcp:121326:4"/>only rejoyce the heart of thy Father on Earth, but our Father in Heaven, and Elder Brother, and Sweet Comforter. Unto whoſe protection I leave thee.</p>
+            <closer>
+               <signed>F. S.</signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:121326:5"/>
+            <head>Reader.</head>
+            <p>
+               <seg rend="decorInit">T</seg>Heſe ſententious words or proverbial ſenten<g ref="char:EOLhyphen"/>ces, are left as a Le<g ref="char:EOLhyphen"/>gacy, by a dying Fa<g ref="char:EOLhyphen"/>ther, to his Son. Expect not Me<g ref="char:EOLhyphen"/>thod, but apply thy ſelf to medi<g ref="char:EOLhyphen"/>tation, which was by the Author chiefly intended.</p>
+            <p>Youth is active. It is good for us to buſie them in the beſt things, to write our children copies to write after, or write over.</p>
+            <p>A good life is better than good lines. Moſt men, eſpecially young
+<pb facs="tcp:121326:5"/>men, are led much by example. It is beſt ſo to walk before our chil<g ref="char:EOLhyphen"/>dren, as that they may ſee Chriſt in us, and follow him. Christ is the beſt copy to write after, and the beſt pattern to follow. Chriſti<g ref="char:EOLhyphen"/>anity is more than Chriſt to bee known, it is the life of Chriſt to bee followed. The Author is not willing to have his name known for reaſons beſt known to himſelf, and yet both reaſon and Religion too put him upon the work, having his own experience to witneſs ſuch beginnings ſucceſſeful. If through goodneſs it prove profitable either to thee or thine, Let God have all the glory, but let not prejudice hin<g ref="char:EOLhyphen"/>der from cloſing with truth. What is Manna the worſe for being
+<pb facs="tcp:121326:6"/>brought to thee in an earthen veſſel? The Apoſtle rejoyced that Chriſt was preached, though they that preached him, did it out of envy: Here is my rejoycing, that what I have done, was out of pure love to poor ſouls, and not to ſeek or purchaſe a fame among men.</p>
+            <p>Help mee with thy prayers, that all theſe truths might bee put in practice, by thee and mee, thine and mine; ſo wilt thou not onely ingage the Authour, but many more to ſubſcribe themſelves,</p>
+            <closer>
+               <signed>
+                  <hi>Thine in the Lord,</hi> F. S.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="tract">
+            <pb n="1" facs="tcp:121326:6"/>
+            <head>A Dying Fathers Living Legacy to his loving Son.</head>
+            <div type="part">
+               <p>
+                  <seg rend="decorInit">R</seg>Eligion is neceſſary, not in the way of nature to our bee<g ref="char:EOLhyphen"/>ing, but in the way Grace to our well-beeing.</p>
+               <p>In all matters of Religion, get Jeſus Chriſt to bee thy Partner.</p>
+               <pb n="2" facs="tcp:121326:7"/>
+               <p>Reaſon perfects us as wee are men, Religion as wee are Chri<g ref="char:EOLhyphen"/>ſtians.</p>
+               <p>With God, it is not how Ra<g ref="char:EOLhyphen"/>tional, but Religious.</p>
+               <p>Religion doth not conſiſt in externals, but in the motion of the ſoul after God.</p>
+               <p>God will not bee content with outſides.</p>
+               <p>The ſaving light of the Spi<g ref="char:EOLhyphen"/>rit is, when that which is light in the head, is heat in the heart, and light in the Converſation.</p>
+               <p>Common light comes from the Spirit, but ſaving light is that which is with the Spirit.</p>
+               <pb n="3" facs="tcp:121326:7"/>
+               <p>Do not determine thy eſtate by head-illumination, but by heart-illumination.</p>
+               <p>Many Chriſtians are in the dark, meerly from their light.</p>
+               <p>True light, where ever it is, there is a deſire after more light; the light of the righteous ſhi<g ref="char:EOLhyphen"/>neth more and more.</p>
+               <p>Where ever this true light is, it layes hold on Chriſt for life: as it leads us unto Chriſt by faith, ſo it leads us after Chriſt by practice.</p>
+               <p>They onely that live to Chriſt, ſhall finde Chriſt to bee gain to them at death, <hi>To mee
+<pb n="4" facs="tcp:121326:8"/>to live is Chriſt, to dye is gain,</hi> Phil. 1.21.</p>
+            </div>
+            <div type="part">
+               <p>BEfore you put your hands into the worlds boſome, put your heart into Gods hands.</p>
+               <p>As God hath bound you by precept to pray, ſo hee hath bound himſelf by promiſe to hear.</p>
+               <p>Though prayer can make no change in God, yet it may make an alteration in you.</p>
+               <p>Wee come to learn our duty, from our requeſt.</p>
+               <p>Wee pray not that Gods will
+<pb n="5" facs="tcp:121326:8"/>may bee altered, but accom<g ref="char:EOLhyphen"/>pliſhed; not to alter his counſel, but his ſentence.</p>
+               <p>Though God bee reſolved to ſhew mercy, yet hee requires ſubmiſſion.</p>
+               <p>Though duty doth not merit mercy, yet duty is Gods order to mercy.</p>
+               <p>Do not reſt without prayer; Oh but take heed, do not reſt in prayer.</p>
+               <p>External duties are means to convey grace, but no arguments to prove the truth of grace.</p>
+               <p>The performance of duty is
+<pb n="6" facs="tcp:121326:9"/>no ſure ſign of a mans acceptati<g ref="char:EOLhyphen"/>on with God, but the neglect of duty is a ſure ſign of a mans abo<g ref="char:EOLhyphen"/>mination unto God.</p>
+               <p>However all external duties are as nothing ſo long as a man is an old man, yet the nothing<g ref="char:EOLhyphen"/>neſs of a duty that ariſes from the doer, muſt bee no prejudice to Gods Authority, or breach of mans duty.</p>
+               <p>A new creature is not ſo all in all, that external duties muſt bee neglected, ſeeing they are means appointed by God to make him more a new creature.</p>
+               <pb n="7" facs="tcp:121326:9"/>
+            </div>
+            <div type="part">
+               <p>YOur prayers muſt not bee offered up as righteouſneſs, but with righteouſneſs.</p>
+               <p>You cannot pray without a promiſe.</p>
+               <p>Gods promiſes are the Saints beſt prayers.</p>
+               <p>All things promiſed muſt be prayed for under the notion of promiſed things.</p>
+               <p>Promiſes are the ground of prayer, and the ground of faith in prayer.</p>
+               <p>Promiſes are the rules of what wee may pray for in faith, and
+<pb n="8" facs="tcp:121326:10"/>faith is the ground of what wee may expect with comfort.</p>
+               <p>As God gives promiſes to ground faith, ſo hee addes pro<g ref="char:EOLhyphen"/>vidences to build it up.</p>
+               <p>As the ſoul lives by faith, ſo faith lives by promiſe.</p>
+            </div>
+            <div type="part">
+               <head>Promiſe.</head>
+               <p>A Promiſe is a word-revelati<g ref="char:EOLhyphen"/>on, ariſing from meer mercy out of the purpoſes of Gods heart, concerning good to fallen man in Chriſt Jeſus.</p>
+               <p>You had never known Gods purpoſes, but by his promiſes.</p>
+               <pb n="9" facs="tcp:121326:10"/>
+               <p>The impulſive cauſe of Gods making promiſes, was his love, the meriting cauſe, Chriſt.</p>
+               <p>They are purging, healing, raiſing up, only as Chriſt is fol<g ref="char:EOLhyphen"/>ded up in them.</p>
+               <p>The promiſes are the plaiſters upon which the blood of Chriſt is ſpread: the blood of Chriſt gives virtue to the promiſe.</p>
+               <p>They are all made in Chriſt, and performed in Chriſt, pur<g ref="char:EOLhyphen"/>chaſed by his blood, and execu<g ref="char:EOLhyphen"/>ted by his power.</p>
+               <p>The Saints are therefore heirs of promiſe, becauſe mem<g ref="char:EOLhyphen"/>bers of Jeſus Chriſt.</p>
+               <pb n="10" facs="tcp:121326:11"/>
+               <p>Promiſes have a being becauſe of Chriſt.</p>
+               <p>After the breach of the firſt Covenant, God had never de<g ref="char:EOLhyphen"/>clared his good will to man in a ſecond Covenant, but for the ſake of Jeſus Chriſt, and it is by our being in him that wee lay claim to thoſe promiſes.</p>
+               <p>All promiſes are made for him, and in him unto us, ſo far as we are incorporated into him, and are members of Jeſus Chriſt.</p>
+               <p>All the promiſes are yea and amen in Chriſt.</p>
+               <p>Thy intereſt in one promiſe is worth all thy intereſts.</p>
+               <pb n="11" facs="tcp:121326:11"/>
+               <p>Gods promiſes which could not bee too dearly bought, yet they are freely given.</p>
+               <p>Gods promiſes are free in re<g ref="char:EOLhyphen"/>ſpect of the making of them, yet they are conditional in re<g ref="char:EOLhyphen"/>ſpect of the performance of them.</p>
+               <p>The promiſes are tendered without exception, but not with<g ref="char:EOLhyphen"/>out condition.</p>
+               <p>Though they are made out of free mercy, yet they are per<g ref="char:EOLhyphen"/>formed in relation to our ſubſer<g ref="char:EOLhyphen"/>vient duty.</p>
+               <p>God never promiſed life ab<g ref="char:EOLhyphen"/>ſolutely,
+<pb n="12" facs="tcp:121326:12"/>but upon condition. In the firſt Covenant, <hi>Do and live;</hi> In the ſecond Covenant, <hi>Believe and live.</hi>
+               </p>
+               <p>Now faith is ſo poor a con<g ref="char:EOLhyphen"/>dition, as puts no worth in us to receive; and therefore juſtified freely of his grace.</p>
+               <p>You are ſaved of grace, but through faith, and it is there<g ref="char:EOLhyphen"/>fore of faith, that it might bee of grace.</p>
+               <p>If God made a promiſe to thee when thou waſt wallowing in thy blood, then certainly God will make it good.</p>
+               <pb n="13" facs="tcp:121326:12"/>
+               <p>By promiſing, God hath made himſelf a debtor to himſelf.</p>
+               <p>God hath made promiſes of pardon, conſider not thy own weaknes ſo much as the ſtrength of Gods promiſe: look not to thy unworthineſs, but upon the truth, worth, and excellency of the promiſe.</p>
+            </div>
+            <div type="part">
+               <p>GOds outward proceedings of providence, do ſome<g ref="char:EOLhyphen"/>times ſeem to contradict the truth of his promiſes.</p>
+               <p>Gods promiſes ſpeak healing, when Gods providences ſeem to ſpeak trouble: yet the po<g ref="char:EOLhyphen"/>ſition
+<pb n="14" facs="tcp:121326:13"/>holds true, that it is Gods purpoſe, under all the preſſures and troubles of his Church to deliver them.</p>
+               <p>There are two things that may bee written upon the Church of Chriſt, Holineſs, and Victory.</p>
+               <p>Whatſoever the difference is betwixt the enemies of the Church and the Church, Chriſts party ſhall overcome.</p>
+               <p>This ſhould make us live by faith, and not by ſenſe.</p>
+               <p>If you look upon things ne<g ref="char:EOLhyphen"/>ceſſary or contingent, in both theſe providence rules.</p>
+               <pb n="15" facs="tcp:121326:13"/>
+               <p>There is a ſpecial providence over every hair of a childe of God, all his hairs are numbred.</p>
+               <p>If a hair cannot fall from the head without providence, the head ſhall not fall from the body without providence.</p>
+               <p>Troubles are the iſſues of neg<g ref="char:EOLhyphen"/>lected providences.</p>
+               <p>Labour to relieve thy ſelf, in thy greateſt ſtraights, in Cove<g ref="char:EOLhyphen"/>nant-promiſes.</p>
+               <p>Hard throws have been made advantages to the birth of ſweet mercies.</p>
+               <pb n="16" facs="tcp:121326:14"/>
+               <p>Though trouble may bee thy condition, yet reſt ſhall bee thy portion.</p>
+               <p>Though affliction may bee thy exerciſe, yet deliverance ſhall bee thy inheritance.</p>
+               <p>providence orders all actions and agents to her own end: Actions may move very ſtrange<g ref="char:EOLhyphen"/>ly in our view, and yet very or<g ref="char:EOLhyphen"/>derly to the greateſt good, as their ſupernatural end.</p>
+               <p>Give not way then to ſink<g ref="char:EOLhyphen"/>ings and deſpondencies of ſpirit in any trouble, in the loweſt conditions and greateſt ſuffer<g ref="char:EOLhyphen"/>ings there is yet ground of hope.</p>
+               <pb n="17" facs="tcp:121326:14"/>
+               <p>When vain is the hope of man, then comes the ſalvation of God.</p>
+               <p>When the morning is darkeſt, then comes the day.</p>
+               <p>When troubles are at the higheſt, then deliverance is at the neareſt.</p>
+               <p>Things wonderful to us, are yet eaſie with God, marvellous in our eyes, and yet familiar with him.</p>
+               <p>Awaken thy heart to pray.</p>
+               <p>Nothing ſhall bee too hard for him to do, whoſe heart God
+<pb n="18" facs="tcp:121326:15"/>carries forth, and holds up to beleeve and pray unto him.</p>
+               <p>Nothing hath been done without it, nothing can bee done againſt it.</p>
+            </div>
+            <div type="part">
+               <head>Providence.</head>
+               <p>GOds Providence is an act of infinite power and wiſdome, whereby hee preſerves and go<g ref="char:EOLhyphen"/>verns all things in order to his glorious Mercy and Juſtice.</p>
+               <p>Gods will, being immu<g ref="char:EOLhyphen"/>table in its determination, his Providence muſt needs bee in<g ref="char:EOLhyphen"/>fallible in its adminiſtrations.</p>
+               <pb n="19" facs="tcp:121326:15"/>
+               <p>Gods Providence is not li<g ref="char:EOLhyphen"/>mited by means, therefore truſt Providence when you ſee no means.</p>
+               <p>Let nothing puzzle you that doth not puzzle God.</p>
+               <p>When God makes uſe of means, it is not from the de<g ref="char:EOLhyphen"/>ficiency of his Power, but from the riches of his Good<g ref="char:EOLhyphen"/>neſs.</p>
+               <p>To eſtabliſh the means, and deny the providence of God, determining the end, is a part of Atheiſm; to eſtabliſh the pro<g ref="char:EOLhyphen"/>vidence of God determining
+<pb n="20" facs="tcp:121326:16"/>the end, and deſpiſe the means, is great prophaneneſs.</p>
+               <p>Uſe means, yet withall truſt and attend Gods providence for the obtaining of the end.</p>
+               <p>True faith ſets God higheſt in means, ſees God out of means, and waits upon him in the oppoſition of means.</p>
+               <p>Endeavours are appointed by God, not to alter his will, but perform it, and in what wee obtain not our deſires, wee te<g ref="char:EOLhyphen"/>ſtifie our obedience.</p>
+               <p>Uſe means as if there wereno
+<pb n="21" facs="tcp:121326:16"/>God, truſt in God as if there were no means.</p>
+               <p>Bee not over-perſwaded of particular means.</p>
+               <p>The water-man thinks his boat will ſave him, but perhaps it is a twig.</p>
+               <p>To neglect helps is to tempt God, to truſt in them when we have them, is to commit Idola<g ref="char:EOLhyphen"/>try with them.</p>
+            </div>
+            <div type="part">
+               <p>WHen you come to pray, look to what God hath promiſed, and in prayer look in<g ref="char:EOLhyphen"/>to the promiſe.</p>
+               <pb n="22" facs="tcp:121326:17"/>
+               <p>When you pray, labour to avoid two things, calling upon God in your own ſtrength, and expecting an anſwer from God in your own worth.</p>
+               <p>You may direct your prayer to Father, Son, and holy Spirit, but not as one ſeparated from the other.</p>
+               <p>When you go to pray, you give God a viſit; frequency of worſhip doth maintain a reſpect between God and you.</p>
+               <p>It is then very ſeaſonable to attend upon, and apply our ſelves to the work or duty of prayer, when the working or grace
+<pb n="23" facs="tcp:121326:17"/>of the Holy Ghoſt doth beget a diſpoſition in us to pray.</p>
+               <p>When grace doth offer a ſea<g ref="char:EOLhyphen"/>ſonableneſs to pray, (you ſhall find) it affords a ſufficiency of ſtrength for prayer. Seaſons of grace laſt not al<g ref="char:EOLhyphen"/>waies, it is not at our command to have the Spirit of God mo<g ref="char:EOLhyphen"/>ving in us: when you know the motions of the Spirit, act accord<g ref="char:EOLhyphen"/>ingly to them.</p>
+               <p>Keep heavenly things as thou wouldeſt keep heaven it ſelf.</p>
+               <p>Strive for ſpiritual life; A dead man, and a dying Chriſti<g ref="char:EOLhyphen"/>an,
+<pb n="24" facs="tcp:121326:18"/>are two ſad ſights.</p>
+               <p>A dead prayer leaves a dead Spirit behinde it.</p>
+               <p>A dull Spirit is the fruit of a dead prayer.</p>
+               <p>A dead heart argues a dying ſoul.</p>
+               <p>God is coming into that ſoul with comfort, who is mighty in duty. Conſolation and ſuppli<g ref="char:EOLhyphen"/>cation go together.</p>
+               <p>When wee do our preſent duty, God will not remember our former ſin.</p>
+               <p>Pray unto God for a better
+<pb n="25" facs="tcp:121326:18"/>praying heart, there will nothing prevail with God if prayer will not.</p>
+               <p>The heart is then moſt fit to pour out a prayer to God, when it is loweſt in the appre<g ref="char:EOLhyphen"/>henſions of miſery.</p>
+               <p>When you hear <hi>David</hi> pray<g ref="char:EOLhyphen"/>ing for mercy, it is a ſign he is in miſery.</p>
+               <p>There is no want ſo great, but prayer will help.</p>
+               <p>Prayer is the moſt efficacious Engine a man can work by, for what is in the power of God, the ſame is in man by prayer.
+<pb n="26" facs="tcp:121326:19"/>Prayer is a calling upon God.</p>
+            </div>
+            <div type="prayer">
+               <head>Prayer.</head>
+               <p>AS Chriſts prayer was not, ſo ours muſt not be a bare manifeſtation of our mindes unto God, but a holy arguing with God.</p>
+               <p>No natural man can pray, he is muzzled.</p>
+               <p>You may be able to word it in prayer, but you cannot have a prayer in the ſight of God as well as in the ſight of man with<g ref="char:EOLhyphen"/>out the Spirit of prayer.</p>
+               <p>Do not judge of your having the Spirit of prayer, by your
+<pb n="27" facs="tcp:121326:19"/>freedome of utterance in pray<g ref="char:EOLhyphen"/>er, by your conſtant perfor<g ref="char:EOLhyphen"/>mance of prayer, nor by your extraordinary inlargements un<g ref="char:EOLhyphen"/>der prayer, but by the inward reaching of your heart after God.</p>
+               <p>It is the panting ſoul that is the praying ſoul.</p>
+               <p>Watch unto prayer, not one<g ref="char:EOLhyphen"/>ly to keep off drowſineſs, but to eye providence.</p>
+               <p>To pray and do nothing elſe, is in effect to do nothing leſs.</p>
+               <p>Let not your practice bee a confutation of your prayers, leſt the day of ſupplication
+<pb n="28" facs="tcp:121326:20"/>prove a day of provocation.</p>
+               <p>Remember this, <hi>If you regard iniquity in your heart, God will not hear your prayers.</hi>
+               </p>
+               <p>Then is a good prayer when God doth not onely confirm thy hopes in prayer, but con<g ref="char:EOLhyphen"/>form thy life to prayer.</p>
+               <p>In duties wee can do nothing with God (as they are our du<g ref="char:EOLhyphen"/>ties) but God will do ſome<g ref="char:EOLhyphen"/>thing in us.</p>
+               <p>If ſtoln waters bee ſweet to wicked men, begged meat is much more ſweet to godly men.</p>
+               <pb n="29" facs="tcp:121326:20"/>
+               <p>Wee are too ready, after wee have done well, to lye down and catch cold: When wee have pleaſed the Lord in law<g ref="char:EOLhyphen"/>ful duties, to pleaſe our ſelves in unlawful liberties.</p>
+            </div>
+            <div type="part">
+               <p>ASk thy ſelf often, what ſin have I left?</p>
+               <p>It is not the converting, but the converted ſinner that is the true penitent.</p>
+               <p>All that are converted ſhall bee ſaved, but all that ſhall bee ſaved, are not converted.</p>
+               <p>Hee that confeſſeth his ſin;
+<pb n="30" facs="tcp:121326:21"/>and turns to it again, repents of his repentance.</p>
+               <p>Hee that repents provides for after repentings.</p>
+               <p>God gives heaven to a man that is fit for heaven, there is no aptneſs in a ſinner for heaven that repenteth not.</p>
+            </div>
+            <div type="part">
+               <head>Repentance.</head>
+               <p>REpentance is an univerſal turning from all ſin, even unto God.</p>
+               <p>Though repentance and turning from ſin doth not de<g ref="char:EOLhyphen"/>ſerve heaven, yet it fits us for mercy and pardon.</p>
+               <pb n="31" facs="tcp:121326:21"/>
+               <p>It is againſt the Juſtice of God to give pardon without re<g ref="char:EOLhyphen"/>pentance; though repentance doth not profit God, yet repent<g ref="char:EOLhyphen"/>ance pleaſeth God.</p>
+               <p>Such as are kinde and merci<g ref="char:EOLhyphen"/>ful to their ſins, that love not their ſins ſhould bee ſpoken a<g ref="char:EOLhyphen"/>gainſt, never repented.</p>
+               <p>Health and freedome from ſickneſs, is a great mercy, par<g ref="char:EOLhyphen"/>don of ſin is a greater, for this is the ground of the other.</p>
+               <p>Take heed of ſinning, leſt you teach God to puniſh you.</p>
+               <p>When you ſee a man ſinning at a high rate, do not ſenſure
+<pb n="32" facs="tcp:121326:22"/>him, but ſay, Why am I ſo low in grace?</p>
+               <p>To delight in mens ſins, is the ſport of Devils; Recovery from thoſe ſins is the joy of Angels.</p>
+               <p>The eye of the Lord is more upon the root of ſin, than upon the act of ſin.</p>
+               <p>Nature makes a ſoul ſen<g ref="char:EOLhyphen"/>ſible of the act of ſin, the Spi<g ref="char:EOLhyphen"/>rit of the root of ſin.</p>
+               <p>Nature preſents to us the painfulneſs of ſin, the Spirit the ſinfulneſs of ſin.</p>
+               <p>Nature makes ſenſible of groſs
+<pb n="33" facs="tcp:121326:22"/>ſins, the Spirit of the leaſt ſin, as well as the greateſt.</p>
+               <p>The Spirit teaches to mea<g ref="char:EOLhyphen"/>ſure every ſin by the greatneſs of God, and ſo no ſin: is little.</p>
+               <p>If you would keep from the act of ſin, avoid the occaſion of ſin.</p>
+               <p>They that confeſs and for<g ref="char:EOLhyphen"/>ſake not, are onely dog-ſick, when they have diſgorged their ſtomachs, they will return to their vomit.</p>
+               <p>Every ſin a beleever com<g ref="char:EOLhyphen"/>mits deſerves damnation, but no ſin ſhall condemn, but the
+<pb n="34" facs="tcp:121326:23"/>living and continuing in it.</p>
+               <p>As it is not the falling into the water that drowns, but lying in it, ſo it is not the fal<g ref="char:EOLhyphen"/>ling into ſin that damns, but dy<g ref="char:EOLhyphen"/>ing in it.</p>
+               <p>Neither good, nor bad at the laſt day ſhall bee judged by every one of his actions, but by all, not according to his ſteps, but according to his wayes.</p>
+               <p>There will bee every dayes pollution, let there bee every dayes purifying.</p>
+               <p>The Devil will bee at his work, bee you at your work.</p>
+               <pb n="35" facs="tcp:121326:23"/>
+               <p>To him that knoweth to do good, and doth it, not to him it is ſin.</p>
+               <p>It is not the body that ſins, it is the ſoul that ſins.</p>
+               <p>A Chriſtian ſhould alwayes have this care, that the iniquity of his hands may bee cleanſed, and the filthineſs of his heart purged.</p>
+               <p>The Spirit of God loves clean hands, and the holineſs of God loves a pure heart.</p>
+               <p>To bee alwayes ſuffering and never repenting, is the property of infernal ſpirits.</p>
+               <pb n="36" facs="tcp:121326:24"/>
+               <p>Wiſe men that ſet them<g ref="char:EOLhyphen"/>ſelves againſt God, they very wittily go to hell.</p>
+               <p>Could you but think what bitter pains your ſweet ſins will coſt, you would bee provident, you durſt not but bee inno<g ref="char:EOLhyphen"/>cent.</p>
+               <p>Sin drives a man from him<g ref="char:EOLhyphen"/>ſelf, and from God. Conver<g ref="char:EOLhyphen"/>ſion it brings a man to himſelf, and unto God, when the Pro<g ref="char:EOLhyphen"/>digal was come to himſelf, hee returned to his Father.</p>
+               <p>Wee never go below our ſelves, but when wee ſin. Wee do not go below our ſelves when wee ſuffer.</p>
+               <pb n="37" facs="tcp:121326:24"/>
+               <p>Holineſs hath a ſilent excel<g ref="char:EOLhyphen"/>lency in it, Sin hath a ſecret de<g ref="char:EOLhyphen"/>formity.</p>
+               <p>No perſon in the world that ſin doth ſo much defile, as a childe of God, and no perſon in the world that ſin doth ſo ill with as a childe of God.</p>
+               <p>It is a ſpotting time, let the Saints take heed.</p>
+               <p>The eclipſe of the Sun, is more obſerved than the ſhining of the Sun.</p>
+               <p>Sin becomes no man, more ill becomes a wiſe man.</p>
+               <p>Finde out your ſins, before
+<pb n="38" facs="tcp:121326:25"/>Gods judgements find you out; It is good to bee beforehand with God.</p>
+               <p>If you are inclined to intem<g ref="char:EOLhyphen"/>perance, take heed of ill com<g ref="char:EOLhyphen"/>pany.</p>
+               <p>When drunkenneſs ſayes Come, ſay No, I have got a new acquaintance.</p>
+               <p>Wee muſt conſider our own wayes, before wee can turn our feet to Gods teſtimonies.</p>
+               <p>The houſe of God is the worſt place to ſin in.</p>
+               <p>The Lord is in the middeſt of his people, there muſt bee
+<pb n="39" facs="tcp:121326:25"/>no hypocrite there.</p>
+               <p>The City where God dwells muſt bee a holy City, and the Mountain a holy Mountain: <hi>Holineſs becommeth thy houſe, O Lord for ever.</hi>
+               </p>
+               <p>There is nothing that the Law can call ſin, but the Goſpel can pardon: Do your ſins reach as high as Heaven, Chriſt is a<g ref="char:EOLhyphen"/>bove them.</p>
+               <p>Chriſt hath as much com<g ref="char:EOLhyphen"/>paſſion, as thou haſt iniquity: Chriſt is ſenſible of a ſinners condition, every ſin-labouring ſoul is a welcome gueſt to Chriſt.</p>
+               <pb n="40" facs="tcp:121326:26"/>
+               <p>But remember this, ſin can<g ref="char:EOLhyphen"/>not bee killed without the death of Chriſt, nor mortified without the Spirit of Chriſt.</p>
+               <p>Converſion is your firſt work, then mortification.</p>
+               <p>However Chriſt makes inter<g ref="char:EOLhyphen"/>ceſſion in heaven for his own people, hee doth not ſpeak a word for the wicked.</p>
+            </div>
+            <div type="part">
+               <p>AS the thread followeth the needle, ſo death follow<g ref="char:EOLhyphen"/>eth ſin.</p>
+               <p>Man had never fallen into the grave, if hee had not fallen into tranſgreſſion.</p>
+               <pb n="41" facs="tcp:121326:26"/>
+               <p>Man dyed, not becauſe his nature was ſubject to corrupti<g ref="char:EOLhyphen"/>on but becauſe ſin had corrupted his nature.</p>
+               <p>Man was wholly a ſtranger to death, till acquainted with ſin.</p>
+               <p>There is no man that lives that ſhall not ſee death; Death will finde every man, and con<g ref="char:EOLhyphen"/>nive at no man.</p>
+               <p>The glorious end wee ſhould aim at in life, is not to ſtudy how wee might injoy the com<g ref="char:EOLhyphen"/>forts of life, but how wee may overcome the diſcouragements of death.</p>
+               <pb n="42" facs="tcp:121326:27"/>
+               <p>Death is alwayes drawing nearer and nearer, whether you improve your time, or throw away your time.</p>
+               <p>Men ordinarily leave the earth, when they are moſt buſie about it.</p>
+               <p>Thoſe muſt dye that ſhall not bee damned.</p>
+               <p>It is a good minde in a man to bee content to dye, and wil<g ref="char:EOLhyphen"/>ling to live; but to bee willing to dye, and content live, is the minde of a ſtrong Chriſtian.</p>
+               <p>To labour not to dye, is la<g ref="char:EOLhyphen"/>bour in vain, to live without fear of death, is to dye live<g ref="char:EOLhyphen"/>ing.</p>
+               <pb n="43" facs="tcp:121326:27"/>
+               <p>The comforts of life are no rational comforts, till you bee freed from the terrours of death.</p>
+               <p>What comforts of life can bee ſweet, when a man is afraid of death, and uncertain of life?</p>
+               <p>Seldome doth hee dye well, that lives ill.</p>
+               <p>They are fools that give a<g ref="char:EOLhyphen"/>way their ſouls for nothing.</p>
+               <p>Prevention is better than confuſion.</p>
+               <p>Hee lives twice, that beſtows the fore part of his time well.</p>
+               <pb n="44" facs="tcp:121326:28"/>
+               <p>That man that lives to dye, ſhall dye to live.</p>
+               <p>The way to dye well, is to dye often; often and ſeriouſly think of dying, and then ſin if thou canſt.</p>
+               <p>A dram of grace will bee more worth to you when you come to dye, than a ſea of gifts.</p>
+               <p>A man may live by a form, hee cannot dye by a form.</p>
+               <p>Remember this, the bellows of death will blow the ſpark of ſincerity into a flame, and the blaze of formality into no<g ref="char:EOLhyphen"/>thing.</p>
+               <pb n="45" facs="tcp:121326:28"/>
+               <p>Hee neither fears nor feels death that hath his hopes in heaven.</p>
+               <p>Though death bee terrible, yet innocency is bold.</p>
+               <p>Chriſt by death, in death, de<g ref="char:EOLhyphen"/>livers us from death.</p>
+               <p>If hee dyed that you might live with him, do not deſire to live long from him.</p>
+               <p n="1">1 If you would live well, take heed where you live, even the place of pleaſure is dan<g ref="char:EOLhyphen"/>gerous.</p>
+               <p n="2">2 In learning to live, ſtudy how to dye; hee loſes all his
+<pb n="46" facs="tcp:121326:29"/>time, that knows not how to end his time.</p>
+               <p n="3">3 Dye you muſt, bee active for God whilſt you live.</p>
+               <p>You that muſt dye ſhortly had need to live ſtrictly.</p>
+               <p>The way to have great con<g ref="char:EOLhyphen"/>fidence when you dye, is to get, and keep a good conſcience whilſt you live.</p>
+               <p>Mans life may bee very ſhort, it cannot bee long; the time of man is a long death, but it is but a ſhort life.</p>
+               <p>Mens principles ſpeak the
+<pb n="47" facs="tcp:121326:29"/>ſhortneſs of life, but their practiſes ſpeak the eternity of life.</p>
+               <p>Time is but ſhort, but eterni<g ref="char:EOLhyphen"/>ty is long.</p>
+               <p>If a wicked man would bee happy, hee muſt make time long, and eternity ſhort.</p>
+               <p>As time is the meaſure of his ſin, ſo eternity is the meaſure of his puniſhment.</p>
+               <p>Prepare for an enemy that is alwayes getting ground of you; not only the approaches of death are perpetual, but inſenſible.</p>
+               <pb n="48" facs="tcp:121326:30"/>
+               <p>Make ſure of death, that you bee not miſerable in death; and after death.</p>
+               <p>When I was a young man (ſaith <hi>Seneca</hi>) my care was to live well, and when age came, I ſtudied how to dye well.</p>
+               <p>The right way to dye well, is to live well, and the right way to live well, is to dye betimes to ſin, the world, and ſelf.</p>
+               <p>You muſt dye, make ſure of an intereſt in the death of the Lord Jeſus Chriſt.</p>
+               <p>Chriſt will do you good when you come to die, ſo will the power of godlineſs.</p>
+            </div>
+            <div type="part">
+               <pb n="49" facs="tcp:121326:30"/>
+               <p>AFter death comes Judge<g ref="char:EOLhyphen"/>ment.</p>
+               <p>At that day the wicked ſhall know Gods forbearance is no ac<g ref="char:EOLhyphen"/>quittance.</p>
+               <p>Wicked men are ſurely or<g ref="char:EOLhyphen"/>dained to puniſhment, as godly men are ordained to deliver<g ref="char:EOLhyphen"/>ance.</p>
+               <p>Though the Saints may bee loſers for Gods word, yet they ſhall loſe nothing by God.</p>
+               <p>It cannot bee long before the worlds Funerals, and the birth day of Judgement.</p>
+               <pb n="50" facs="tcp:121326:31"/>
+               <p>Though wee ſleep in ſin, judgement ſlumbers not.</p>
+               <p>The Lord Jeſus Chriſt hee is judge, not onely of the fact, but of the heart.</p>
+               <p>Make the Judge your friend; Get him that is your Judge to bee your Advocate.</p>
+               <p>It is not the varniſh of pro<g ref="char:EOLhyphen"/>feſſion Chriſt will reſpect at that day, unleſs hee ſee the work<g ref="char:EOLhyphen"/>manſhip of the Holy Ghoſt in the heart.</p>
+               <p>The wicked may drink a ſea of wrath, but they ſhall not ſip one drop of injuſtice.</p>
+               <pb n="51" facs="tcp:121326:31"/>
+               <p>The ſinner beeing ſelf-con<g ref="char:EOLhyphen"/>demned, ſhall clear the Judge.</p>
+               <p>Chriſts firſt coming, was to unite, his ſecond coming ſhall bee to ſeparate.</p>
+               <p>That heart that would not break with ſorrow for ſin, ſhall now bee rent thorow with deſ<g ref="char:EOLhyphen"/>pair.</p>
+               <p>They that would not weep for their ſins, ſhall now barn for their ſins.</p>
+               <p>To bear this will bee intol<g ref="char:EOLhyphen"/>lerable; to avoid this will bee impoſſible.</p>
+               <p>Sinners they muſt come to
+<pb n="52" facs="tcp:121326:32"/>the Bar, and they are ſure to bee caſt at the Bar.</p>
+               <p>If you have not a part in the blood of the Lamb, you ſhall bee ſure to have a part in the wrath of the Lamb.</p>
+               <p>But if thou haſt no ſins of allowance, thou ſhalt have grains of allowance.</p>
+               <p>One dram of grace is too good to go to hell.</p>
+            </div>
+            <div type="part">
+               <p>ALL that will expect to bee ſaved muſt wait upon the fooliſhneſs of preaching.</p>
+               <p>The creature as a creature is
+<pb n="53" facs="tcp:121326:32"/>indiſpenſibly bound to ſerve God.</p>
+               <p>Pray privately, hear publick<g ref="char:EOLhyphen"/>ly.</p>
+               <p>God never comes ſo nigh to the ſoul, as when hee enters in<g ref="char:EOLhyphen"/>to the ear.</p>
+               <p>It is preaching that brings hearing, and hearing that brings faith, and faith ſalvation.</p>
+               <p>As God will bee worſhipped in Spirit, ſo in truth, not onely in oppoſition to the Ceremo<g ref="char:EOLhyphen"/>nial Law, but in oppoſition to the hypocriſie of the heart.</p>
+               <p>That man never received the
+<pb n="54" facs="tcp:121326:33"/>word in the power of it, that never received it in the per<g ref="char:EOLhyphen"/>petuity of it.</p>
+               <p>Inſtability is alwayes a ſure note of inſincerity.</p>
+               <p>God looks more at the man<g ref="char:EOLhyphen"/>ner of the duty, than the mat<g ref="char:EOLhyphen"/>ter; it is not what you do, but how you do, not how much, but how well.</p>
+               <p>As God will have you holy, becauſe hee is holy, ſo you muſt worſhip him in ſpirit, becauſe hee is a Spirit.</p>
+               <p>What is the reaſon that men ſleep ſo ſecurely after ſo many Sermons? they ſay with <hi>Sa<g ref="char:EOLhyphen"/>muel,
+<pb n="55" facs="tcp:121326:33"/>It is onely mans voice.</hi>
+               </p>
+               <p>The outward teachings of man, is of no power without the inward teachings of Gods Spi<g ref="char:EOLhyphen"/>rit.</p>
+               <p>Chriſt revealed to us diffe<g ref="char:EOLhyphen"/>renceth us from Pagans; Chriſt revealed in us ſevereth us from Reprobates.</p>
+               <p>It is not thy hearing of mans voice, but thy ſubjection to Gods voice, that begets thee anew to God.</p>
+               <p>As hee ſins that gives not God the hearing, ſo hee ſins that only gives God the hear<g ref="char:EOLhyphen"/>ing.</p>
+               <pb n="56" facs="tcp:121326:34"/>
+               <p>The word is never ſpoken in vain, though it may bee often heard in vain, it either purifies or conſumes.</p>
+               <p>Goſpel-ordinances (you will finde) either ripen your graces, or ripen your corruptions.</p>
+               <p>The word of God is an ene<g ref="char:EOLhyphen"/>my to none but them that are enemies to themſelves.</p>
+               <p>No worſhip is a breach of the firſt Commandement; falſe worſhip is a breach of the ſe<g ref="char:EOLhyphen"/>cond Commandement.</p>
+               <p>Will-worſhip is alwayes falſe worſhip; All things that I com<g ref="char:EOLhyphen"/>mand you in matters of practiſe,
+<pb n="57" facs="tcp:121326:34"/>and in matters of worſhip, that do, and no more.</p>
+               <p>You muſt worſhip God with your will, oh but take heed of Will worſhip.</p>
+               <p>When the heart goes not a<g ref="char:EOLhyphen"/>long with the duty, that is hy<g ref="char:EOLhyphen"/>pocriſie, when the heart is not ſtirred up in the duty to lively and vigorous acts, that is for<g ref="char:EOLhyphen"/>mality.</p>
+               <p>As God will have the heart in prayer, ſo in hearing, hee is a Spirit, and hee will bee worſhip<g ref="char:EOLhyphen"/>ped in Truth.</p>
+               <p>The Lord whoſe Name is Jealous, is a jealous God.</p>
+               <pb n="58" facs="tcp:121326:35"/>
+               <p>Take heed of the falſe wor<g ref="char:EOLhyphen"/>ſhip of the heart, if thou are not guilty of Idolatry, thou mayeſt bee guilty of Hypo<g ref="char:EOLhyphen"/>criſie.</p>
+               <p>Take heed of the Idolatry of the heart.</p>
+               <p>Bee ſpiritual in what you do.</p>
+               <p>A jealous eye is a watchful eye.</p>
+               <p>When ever you come to worſhip, look to your thoughts.</p>
+               <p>Look to your conceptions of God when you worſhip, how you repreſent God in worſhip.</p>
+               <pb n="59" facs="tcp:121326:35"/>
+               <p>There is as much danger of imaginations within, as there is of Images without.</p>
+               <p>That which makes us ſuc<g ref="char:EOLhyphen"/>ceſſeleſs in duty, is undue thoughts of God.</p>
+               <p>Make ſpiritual growth the end of coming to the word.</p>
+               <p>That Spirit that ſayes, <hi>Hear my Law,</hi> ſayes, <hi>My Son, forget not my Law.</hi>
+               </p>
+               <p>A holy life is the infuſion of holy truth.</p>
+               <p>Truth ſhall never dye, who ever dye or live.</p>
+               <pb n="60" facs="tcp:121326:36"/>
+               <p>Charge thy ſelf with that which is the end of the word (that is) <hi>Live well.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <p>ASk thy heart every night what hath been thy darling to day, who hath been moſt in thy thoughts to day.</p>
+               <p>The actions of mens lives, are the wayes of their thoughts.</p>
+               <p>Secret thoughts will ingen<g ref="char:EOLhyphen"/>der groſs tranſgreſſions; ſecret ſins will bring to open ſhame, if you do not ſhame your ſelf be<g ref="char:EOLhyphen"/>fore God for them.</p>
+               <p>Sins of act are like arrows that flye by day; Sins of
+<pb n="61" facs="tcp:121326:36"/>thought are the peſtilence that lurks in darkneſs.</p>
+               <p>It is not what thoughts are injected into thee, but what thoughts are maintained by thee.</p>
+               <p>Thoughts are ſins of the higheſt part of a man, for they are the ſins of his heart.</p>
+               <p>Thoughts are the firſt-born of original corruption, if it bee the firſt born, it muſt needs bee the ſtrongeſt, as <hi>Jacob</hi> ſaid to <hi>Ruben.</hi>
+               </p>
+               <p>A man many times doth not what hee would, but hee al<g ref="char:EOLhyphen"/>waies thinks as hee will.</p>
+               <pb n="62" facs="tcp:121326:37"/>
+               <p>If thy heart bee heavenly, thy thoughts will bee holy.</p>
+               <p>God thinks on you when you forget him.</p>
+               <p>If God ſhould withdraw his thoughts from us, as we do ours from him, what would become of us: Think on that.</p>
+               <p>Thoughts are called the counſels of a mans heart, if thy thoughts bee not counſelled thoughts, ſuch as thou doſt de<g ref="char:EOLhyphen"/>termine to think on, they are not good thoughts.</p>
+               <p>The ſouls part of fin, is the greateſt part of ſin, therefore thoughts are the greateſt part
+<pb n="63" facs="tcp:121326:37"/>of ſin; yet ſins in deed are in regard of progreſs the worſe, becauſe thoughts are included in them.</p>
+               <p>This is that which undoes many a man (let it not bee thy undoing) to have good thoughts of God, and good thoughts of themſelves too.</p>
+            </div>
+            <div type="part">
+               <p>THere is no ſoul hath more high thoughts of God, than that ſoul that hath low thoughts of it ſelf.</p>
+               <p>The foul that lives loweſt, hath the higheſt objects before it.</p>
+               <pb n="64" facs="tcp:121326:38"/>
+               <p>The lower the ſoul lyes, the higher the things are it aims at.</p>
+               <p>The lower the ebbe, the higher the tyde.</p>
+               <p>The lower the foundation of vertue is laid, the higher ſhall the roof of glory bee over<g ref="char:EOLhyphen"/>laid.</p>
+               <p>They that are riſen with Chriſt, that ſeek the power of Chriſt riſen, ſeek things a<g ref="char:EOLhyphen"/>bove.</p>
+               <p>(An humble ſpirit may bee buſied in low things, but not taken up with them.</p>
+               <pb n="65" facs="tcp:121326:38"/>
+               <p>If Saints bee ſad, it is be<g ref="char:EOLhyphen"/>cauſe they are too buſie here below.)</p>
+               <p>The more low wee are, the more comfort wee have of God: When wee are nothing in our own eyes, then are wee ſomething in Gods.</p>
+               <p>If thou wouldeſt bee all in God, learn to empty thy ſelf, not by taking notice ſo much of thy graces, as thy wants.</p>
+               <p>The more wee can empty our ſelves, the more wee ſhall bee filled with God.</p>
+               <p>A Chriſtians emptineſs is his
+<pb n="66" facs="tcp:121326:39"/>fulneſs, and his fulneſs is his emptineſs.</p>
+               <p>God is in that man that is not in himſelf.</p>
+               <p>If I will bee any thing in my ſelf, as of my ſelf, I muſt look to bee no creature of Gods making.</p>
+               <p>Whatſoever a Chriſtian is for grace or glory, it is out of himſelf, hee hath nothing in himſelf, as of himſelf; all that hee hath, hee hath in Chriſt.</p>
+               <p>Wee altogether ſhine in the beams of our husband.</p>
+               <p>Follow Chriſts example, his
+<pb n="67" facs="tcp:121326:39"/>whole life and death was an ab<g ref="char:EOLhyphen"/>ſolute denial of himſelf.</p>
+               <p>It unburdens a man of him<g ref="char:EOLhyphen"/>ſelf, this ſelf-denial.</p>
+               <p>If a man lets go his fleſhh ec ſhall advance his ſpirit.</p>
+               <p>A ſelf-ſeeker is a clod of earth that ſucks the ſap of his ſoul onely to himſelf.</p>
+               <p>Deny thy ſelf wholly; if there bee not thorow ſelf-denial, ere long there will bee God-denial.</p>
+               <p>Whoſoever is not poor in himſelf, hee will never go our of himſelf, for hee hath ſome o<g ref="char:EOLhyphen"/>ther ſupply.</p>
+               <pb n="68" facs="tcp:121326:40"/>
+               <p>Thoſe that have full conceits of themſelves, can never thirſt after Chriſt.</p>
+               <p>When man makes an Idol of ſelf, hee wants now and then ſome to come and worſhip him.</p>
+               <p>Thoſe that have leaſt know<g ref="char:EOLhyphen"/>ledge of themſelves, are apt to dote on themſelves.</p>
+               <p>Hee that knows himſelf beſt, loves himſelf leaſt.</p>
+               <p>Thoſe that have moſt light, have loweſt thoughts; they truſt not to the grace in their own hearts, but to the grace in the Covenant.</p>
+               <pb n="69" facs="tcp:121326:40"/>
+               <p>Pride is a conceit of ſelf<g ref="char:EOLhyphen"/>ſufficiency.</p>
+            </div>
+            <div type="part">
+               <p>THou canſt never act freely and cheerfully in Gods wayes, until the divine nature bee communicated.</p>
+               <p>Where divine power works not creatingly, it works not re<g ref="char:EOLhyphen"/>lievingly; hence it is that one that is not a Chriſtian in deed, holds not out alwayes to bee a Chriſtian in ſhew.</p>
+               <p>As vital principles, and ſpiri<g ref="char:EOLhyphen"/>tual habits are infuſed by God, ſo they owe their permanency and ſtability to God.</p>
+               <pb n="70" facs="tcp:121326:41"/>
+               <p>It is his work to perfect ho<g ref="char:EOLhyphen"/>lineſs in his fear.</p>
+               <p>The judgement of ſenſe ought to bee regulated by rea<g ref="char:EOLhyphen"/>ſon, and the judgement of rea<g ref="char:EOLhyphen"/>ſon ought to bee corrected by faith.</p>
+               <p>Though I muſt not, nor can<g ref="char:EOLhyphen"/>not give a reaſon of every thing I beleeve, yet I muſt give a reaſon of my faith.</p>
+               <p>There is the life of faith, the living of faith, and the liveli<g ref="char:EOLhyphen"/>neſs of faith; the firſt is the ha<g ref="char:EOLhyphen"/>bit, the ſecond is the act, the third is the grace.</p>
+               <p>Faith doth not juſtifie as a
+<pb n="71" facs="tcp:121326:41"/>grace in us, or as a work; not as an active condition, contribu<g ref="char:EOLhyphen"/>ting any thing to its own worth, but as a paſſive condition, or qualification, whereby wee re<g ref="char:EOLhyphen"/>ceive Jeſus Chriſt the Lord, and it is for his merits, and not for our faith, though by our faith wee are juſtified.</p>
+               <p>It is the application of Chriſts righteouſneſs, not our appre<g ref="char:EOLhyphen"/>hending it.</p>
+               <p>By faith alone wee are juſti<g ref="char:EOLhyphen"/>fied, but the faith by which wee are juſtified is not alone.</p>
+               <p>As wee cannot get it of our ſelves, ſo wee cannot act it of our ſelves.</p>
+               <pb n="72" facs="tcp:121326:42"/>
+               <p>Faith is not our righteouſ<g ref="char:EOLhyphen"/>neſs, yet it makes the righte<g ref="char:EOLhyphen"/>ouſneſs of Chriſt to bee ours: <hi>Abraham beleeved, and it was imputed to him for righteouſ<g ref="char:EOLhyphen"/>neſs.</hi>
+               </p>
+               <p>Chriſt in our nature hath ful<g ref="char:EOLhyphen"/>filled all righteouſneſs, this God hath promiſed ſhall bee ours for juſtification; now faith cloſes with this Covenant, ap<g ref="char:EOLhyphen"/>plies this promiſe, and reſts up<g ref="char:EOLhyphen"/>on Chriſt for juſtification.</p>
+               <p>Therefore of faith that it might bee by grace; there<g ref="char:EOLhyphen"/>fore of faith to the end the pro<g ref="char:EOLhyphen"/>miſe might bee ſure to all the ſeed.</p>
+               <pb n="73" facs="tcp:121326:42"/>
+               <p>Faith is the root of a Chriſti<g ref="char:EOLhyphen"/>ans converſation, and a Chriſti<g ref="char:EOLhyphen"/>ans converſation is the fruit of faith.</p>
+               <p>Many meaſure their faith by perſwaſion, but I had rather meaſure my faith by the power of mortification: ſo much as it ſanctifies, ſo much it is; faith can<g ref="char:EOLhyphen"/>not conduce to the act of re<g ref="char:EOLhyphen"/>demption, but faith conduces to our juſtification.</p>
+               <p>You are to act faith upon God, that the promiſe may bee returned.</p>
+               <p>Wherefore do I believe? becauſe God hath promiſed;
+<pb n="74" facs="tcp:121326:43"/>Wherefore do I hope? becauſe faith believes; Wherefore do I wait? becauſe hope expects.</p>
+               <p>An eaſie faith is always a falſe faith.</p>
+               <p>Hee that never found it hard to believe, never believed.</p>
+               <p>A fruitleſs faith is alwaies a falſe faith.</p>
+               <p>It is not the work faith, nor the works of faith, but faith with her proper work by which wee are juſtified.</p>
+               <p>By faith the perſon is juſtifi<g ref="char:EOLhyphen"/>ed, and by works the faith is juſtified.</p>
+               <pb n="75" facs="tcp:121326:43"/>
+               <p>Though faith alone doth ju<g ref="char:EOLhyphen"/>ſtifie, yet not that faith which is alone.</p>
+               <p>Chriſtians ſhould not onely labour to be juſtified by faith, but they ſhould labour to juſti<g ref="char:EOLhyphen"/>fie their faith.</p>
+               <p>Shew mee thy inviſible faith by thy viſible life.</p>
+               <p>God doth juſtifie a man by his faith, hee doth not juſtifie him for his faith.</p>
+               <p>Faith is the Engine by which wee do all; by which wee pre<g ref="char:EOLhyphen"/>vail with God, and overcome the world: it muſt not onely
+<pb n="76" facs="tcp:121326:44"/>live in us, but wee muſt live by it.</p>
+               <p>Faith, it grows in the exer<g ref="char:EOLhyphen"/>ciſe.</p>
+               <p>Do what you can for faith, though your doing will not come up to believing; and ſay not that you cannot believe: for if you go not thus far, to do what you can, your unbelief is not from your cannot, but from your will not.</p>
+               <p>Go and put forth that faith thou art able to put forth, and in the end God will make it a ſpiritual believing.</p>
+               <pb n="77" facs="tcp:121326:44"/>
+               <p>As the water Chriſt com<g ref="char:EOLhyphen"/>manded to bee poured out, was turned into wine by the pour<g ref="char:EOLhyphen"/>ing of it out: ſo deal with Chriſt Jeſus for believing, and in the end God will turn thy faith, which is but water, into wine.</p>
+               <p>Thou wilt believe thy ſelf in<g ref="char:EOLhyphen"/>to believing.</p>
+               <p>You ought to believe till you bee perſwaded that you do be<g ref="char:EOLhyphen"/>lieve, for the more you do be<g ref="char:EOLhyphen"/>lieve, the more you ſhall bee perſwaded to believe.</p>
+               <p>By frequency of believing,
+<pb n="78" facs="tcp:121326:45"/>you ſhall feel at your very heart that you do believe, 1 <hi>Joh.</hi> 5.10.</p>
+               <p>If repentance accompany faith, it is no preſumption to believe: but it is preſumption to look for mercy in a way of unbelief.</p>
+               <p>Beware of unbelief, for it is a ſhelter to ſin all your life.</p>
+               <p>As faith is the ſhield of the new man, ſo unbelief is the ſhield of the old man.</p>
+               <p>As the ſhield of faith doth quench the fiery darts of the
+<pb n="79" facs="tcp:121326:45"/>Devill, ſo unbelief doth quench the fiery darts of God.</p>
+               <p>This unbelief removes all the blocks that lie in the way of ſin, as belief removes all the blocks that lie in the way of holineſs.</p>
+               <p>Unbelief, it robs God the Father at once of all his Attri<g ref="char:EOLhyphen"/>butes; it robs God the Son of the Glory of his triumph over Sin, Death, and Hell; it robs God the Holy-Ghoſt of his ſeals to thy evidence of par<g ref="char:EOLhyphen"/>don.</p>
+               <p>The Spirit ſeals to thy ſoul the pardon of thy ſins, and un<g ref="char:EOLhyphen"/>belief comes and tears thy e<g ref="char:EOLhyphen"/>vidences,
+<pb n="80" facs="tcp:121326:46"/>and breaks the ſeals.</p>
+               <p>Labour as much for faith in the threatnings, as for faith in the promiſes.</p>
+               <p>And remember this, though other ſins merit hell, yet it is this ſin of unbelief onely that puts you into damnation.</p>
+            </div>
+            <div type="part">
+               <p>AS great ſins are not eaſily to bee reformed, ſo great mercies are not ſoon obtained.</p>
+               <p>When the ſtream of thank<g ref="char:EOLhyphen"/>fulneſs is not returned, the tide of mercy ſtops.</p>
+               <p>Although God looks for no<g ref="char:EOLhyphen"/>thing
+<pb n="81" facs="tcp:121326:46"/>in us to beſtow his love upon us, nor for nothing from us as the ground of the conti<g ref="char:EOLhyphen"/>nuance of his love to us, yet wee are to bee highly thankful for any little the Lord gives, and to be humble, and judge our ſelves worthy of nothing when the Lord denies.</p>
+               <p>Mercy is not the purchaſe of the creature, but the gift of God.</p>
+               <p>Follow God cloſe with your praiſes, that goes before you in his mercies.</p>
+               <p>As praiſes are the ſeaſonable fruit under mercies, ſo humili<g ref="char:EOLhyphen"/>ation
+<pb n="82" facs="tcp:121326:47"/>and prayers are the ſeaſo<g ref="char:EOLhyphen"/>nable fruit under troubles.</p>
+               <p>Sinners may ſpeak good words of God, it is only comly for the upright to praiſe God.</p>
+               <p>Thanksgiving, it is the pro<g ref="char:EOLhyphen"/>per work of Chriſtians, and the natural work of Angels.</p>
+               <p>A little makes a thankful man admire much: Oh how big are a thankful mans mercies, and how little hee!</p>
+               <p>Bee careful for nothing, but by prayer, and ſupplication, make your requeſts known to God with thanksgiving.</p>
+               <pb n="83" facs="tcp:121326:47"/>
+               <p>Daies of thanksgiving and prayer are helps to the duties God requires from us, they are not our onely buſineſs.</p>
+               <p>When wee pray and give thanks, it is not the onely bu<g ref="char:EOLhyphen"/>ſineſs of the day, but theſe are helps to us that wee may per<g ref="char:EOLhyphen"/>ſevere and improve our obedi<g ref="char:EOLhyphen"/>ence.</p>
+               <p>Though our goodneſs rea<g ref="char:EOLhyphen"/>ches not to God, yet it ſhould to the Saints.</p>
+               <p>If God be rich in mercy unto us, it is that we ſhould be rich in good works unto others.</p>
+               <pb n="84" facs="tcp:121326:48"/>
+               <p>It is good to receive a mercy from God, it is better to im<g ref="char:EOLhyphen"/>prove a mercy.</p>
+               <p>Great and renewed receivings from God, ſhould beget freſh, quick, and ſtrong reſolutions of obedience unto God.</p>
+               <p>The more holy fire there is in the ſervice, the more pleaſing the ſervice.</p>
+               <p>When ever you ſerve God, it muſt bee with fear; when e<g ref="char:EOLhyphen"/>ver you praiſe God, it muſt bee with trembling.</p>
+               <p>Though I cannot praiſe God ſufficiently, yet Chriſt can.</p>
+            </div>
+            <div type="part">
+               <pb n="85" facs="tcp:121326:48"/>
+               <p>ALl have a call of inexcuſa<g ref="char:EOLhyphen"/>bleneſs, few have a call of effectualneſs.</p>
+               <p>Grace is not denied to the wicked, but it is onely given to the weary.</p>
+               <p>By grace is meant the love and favour of God within him<g ref="char:EOLhyphen"/>ſelf, and is the ſpring and foun<g ref="char:EOLhyphen"/>tain of all that good which hee doth give out unto his chil<g ref="char:EOLhyphen"/>dren.</p>
+               <p>As grace is communicative, ſo it is called goodneſs.</p>
+               <p>As it is with delight, ſo it is
+<pb n="86" facs="tcp:121326:49"/>called love: as it is given out to man in ſtate of miſery, ſo it is called mercy: as it is diſpen<g ref="char:EOLhyphen"/>ſed freely, ſo it is called grace.</p>
+               <p>When the Spirit works a man for ſalvation, then doth the Spirit pour forth thoſe graces, and exerciſes thoſe operations without which you cannot live grace.</p>
+               <p>Notwithſtanding Chriſt hath paid the price of ſalvation, yet you ſhall not bee ſaved without the Spirits application.</p>
+               <p>The Spirit is the executor of that will of which Chriſt is the Teſtator.</p>
+               <pb n="87" facs="tcp:121326:49"/>
+               <p>Chriſt gives the Legacies, but the Spirit paies them.</p>
+               <p>Chriſt is the Mediator of the new Covenant, and the Spirit is the Adminiſtrator of that Covenant.</p>
+               <p>You can no more expect to be renewed without the Spirit, than to bee ſaved without the Son.</p>
+               <p>As you cannot bee ſaved un<g ref="char:EOLhyphen"/>redeemed, ſo you cannot bee ſa<g ref="char:EOLhyphen"/>ved unrenewed.</p>
+               <p>A graceleſs man ſhall never inherit heaven.</p>
+               <pb n="88" facs="tcp:121326:50"/>
+               <p>A graceleſs man is a cruel man to his own ſoul.</p>
+               <p>As ſinners are given up to ſin, ſo thoſe that have really profit<g ref="char:EOLhyphen"/>ed by the means of grace, are given up to grace: hence it is, that a gracious perſon will ask, How doth this ſtand with grace?</p>
+               <p>Grace is either getting or lo<g ref="char:EOLhyphen"/>ſing.</p>
+               <p>No man can decay in good, but by ſome thing that is bad.</p>
+               <p>It is alwaies ſome ſinful evill that makes us to wither in ſpiri<g ref="char:EOLhyphen"/>tual good.</p>
+               <pb n="89" facs="tcp:121326:50"/>
+               <p>It would bee a wonder to ſee a man dying in grace, and not withall living in ſin.</p>
+               <p>If that which ſhould keep down ſin bee kept down by ſin<g ref="char:EOLhyphen"/>ning, how exceeding ſinful maiſt thou bee?</p>
+               <p>When wee bee leſs good, we ſhall alwaies do the leſs good, and the more ill.</p>
+               <p>You will finde much ado to do a little good.</p>
+               <p>Graces are given, not onely to make us good, but to make us to do good.</p>
+               <pb n="90" facs="tcp:121326:51"/>
+               <p>Grace, as it is in man, is but a creature, and would fail him, for the Angels and <hi>Adam</hi> had the perfect habits of grace, and yet fell: therefore beg of God continual aſſiſtance and ſupply for the acting of thy grace.</p>
+               <p>Grace which is meat and drink to a holy heart, is but phyſick to a formal ſoul.</p>
+               <p>If thy grace bee true grace, it will drive thee out of thy ſelf, by making thee more humble, and draw thee unto Chriſt, by making thee more thankful.</p>
+               <p>If God hath called thee to
+<pb n="91" facs="tcp:121326:51"/>grace, bee not diſcouraged, though thou haſt never ſo lit<g ref="char:EOLhyphen"/>tle.</p>
+               <p>Calling is from God, there<g ref="char:EOLhyphen"/>fore the called ſhould be for God.</p>
+               <p>Doth God call? then all the holineſs within us, is matter of humiliation to us.</p>
+               <p>Not onely ſin, but grace ſhould make us humble.</p>
+               <p>Your-ſins ſhould make you humble, becauſe they are your own: your grace ſhould make you humble, becauſe it is none of your own.</p>
+               <pb n="92" facs="tcp:121326:52"/>
+               <p>It is a hard thing to get grace, and it is as hard when wee have it, to get above it.</p>
+               <p>Live unto grace, not thy own, but the grace of God.</p>
+               <p>Grace brings glory to you, and grace requires glory from you.</p>
+               <p>When all is received from the grace of God, return all back again to the glory of God.</p>
+               <p>What wee receive from God in a way of mercy, wee muſt return to God in a way of du<g ref="char:EOLhyphen"/>ty.</p>
+               <pb n="93" facs="tcp:121326:52"/>
+               <p>God returns our duties, wee are to return his mercies.</p>
+               <p>Our mercies are ſure in Gods hands.</p>
+               <p>There is a time when mercy flows in, and there is a time when mercy flows off.</p>
+               <p>Be it winter or ſummer, bee it ſickneſs or heath, bee it rich<g ref="char:EOLhyphen"/>es or poverty, in the want of mercy as well as in the injoy<g ref="char:EOLhyphen"/>ment of mercy, in all things give thanks.</p>
+               <p>The condition of the Saints in this life, is like the daies in the yeer, ſometimes cloudy,
+<pb n="94" facs="tcp:121326:53"/>and full of ſtorms; ſometimes fair, and full of comfort.</p>
+               <p>The ſoul lives in the injoy<g ref="char:EOLhyphen"/>ment of God, and dies without him: nothing can make up the loſs of God.</p>
+               <p>Beware of making up a loſt God with other things.</p>
+               <p>Aholy diſcontent in other things without God, is the rea<g ref="char:EOLhyphen"/>dieſt way to get God again.</p>
+               <p>In the abſence of God, take no delight in any thing below God, in any thing in the world.</p>
+               <p>It is better to honour God in
+<pb n="95" facs="tcp:121326:53"/>thy greateſt miſery, than to diſ<g ref="char:EOLhyphen"/>honour him in thy greateſt hap<g ref="char:EOLhyphen"/>pineſs.</p>
+               <p>Keep up thy heart in holy imployments, truſt in the Lord in times of darkneſs.</p>
+               <p>Serve an angry God with all ſincerity, as a reconciled God, when hee hides his face, labour to ſee his heart.</p>
+               <p>What ever thoſe reaſonings bee that would keep thee from God, ſay, <hi>Get thee behinde mee Satan.</hi>
+               </p>
+               <p>Truſting in God in the midſt of all diſcouragements to hea<g ref="char:EOLhyphen"/>ven,
+<pb n="96" facs="tcp:121326:54"/>is a noble act of faith.</p>
+               <p>Would you ſee God in the way of his diſtreſſing diſpenſati<g ref="char:EOLhyphen"/>ons, then labour to ceaſe from ſelf, and walk by faith.</p>
+               <p>Faith doth enable the ſoul to eye the preſent deſign of God under the variety of thoſe diffi<g ref="char:EOLhyphen"/>culties his people are in.</p>
+               <p>Faith knows how to improve paſt experiences in order to pre<g ref="char:EOLhyphen"/>ſent help and relief.</p>
+               <p>Gods immutability is the foundation of the Saints ſafety.</p>
+               <p>God to the Father by prayer, that you may go to the Son by faith.</p>
+               <pb n="97" facs="tcp:121326:54"/>
+               <p>God will have his people walk before him, not by ſenſe, but by faith.</p>
+               <p>Though God ſometimes withdraws from his people, yet his heart is ſtill towards them.</p>
+               <p>Though God doth withdraw from his people, yet hee doth never utterly forſake them.</p>
+               <p>It is a diſcovery of a new Covenant-frame of heart; when wee can truſt God in difficult, dark providences.</p>
+               <p>Though ſometimes God hides his face from his people, hee never ſets his face againſt them.</p>
+               <pb n="98" facs="tcp:121326:55"/>
+               <p>In times of affliction, it is the property of a good childe to love God moſt, in times of ſpeaking peace, to fear God moſt, and his goodneſs; to fear to offend him for his goodneſs ſake.</p>
+               <p>God is angry with wicked mens ſins, but he is grieved for yours.</p>
+               <p>To grieve God, is more than to provoke God; therefore when thou art tempted, labour to renew thoſe thoughts which thou hadſt of thy ſin at that time when thou waſt ſuing for peace, when thou wouldeſt have given a world for Gods favour.</p>
+            </div>
+            <div type="part">
+               <pb n="99" facs="tcp:121326:55"/>
+               <p>GOd hates and abominates the ſervices of wicked men, as bad as their ſins.</p>
+               <p>Conſcience ſees a neceſſity of duty, and then ſtarts a reſo<g ref="char:EOLhyphen"/>lution.</p>
+               <p>In thy reſolution look not ſo much what terminates and bounds it, as what bottomes it.</p>
+               <p>Wicked and ungodly men do not come to ſerve God, but come to ſerve their turns upon God.</p>
+               <p>No puniſhment, no prayer.</p>
+               <pb n="100" facs="tcp:121326:56"/>
+               <p>As God is preſſed down with the ſins of wicked men, ſo with their ſacrifices.</p>
+               <p>To obey is better than ſacri<g ref="char:EOLhyphen"/>fice, but to ſacrifice, and not to obey, is worſe than Witch<g ref="char:EOLhyphen"/>craft.</p>
+               <p>God will damn wicked men as much for their ſacrifices, as for their ſins.</p>
+               <p>Hee will ſacrifize them in hell, for their ſacrificing here upon earth.</p>
+               <p>God doth abominate their perſons, therefore hee muſt needs abominate their prayers.</p>
+               <pb n="101" facs="tcp:121326:56"/>
+               <p>In the firſt Covenant, the perſon was accepted for the works ſake; in the ſecond Co<g ref="char:EOLhyphen"/>venant, the work is accepted for the perſons ſake.</p>
+               <p>God doth not bid a man wel<g ref="char:EOLhyphen"/>come for his gifts, but hee bids the gifts welcome for the man.</p>
+               <p>Wicked men make their ſa<g ref="char:EOLhyphen"/>crifices their ſaviours.</p>
+               <p>Wicked men do as beggers do in want, give mee now, and I will never ask more.</p>
+               <p>Duties in themſelves are good, but as they are thy duties,
+<pb n="102" facs="tcp:121326:57"/>they are ſinful.</p>
+               <p>So long as our duties grow upon the bitter root of corrupt nature, they are bitter; but re<g ref="char:EOLhyphen"/>move them into Chriſt Jeſus, and they ſhall bee ſweet and ac<g ref="char:EOLhyphen"/>ceptable.</p>
+               <p>The prayer, the deſire, the breath of an upright ſoul, is Gods delight.</p>
+            </div>
+            <div type="part">
+               <p>CHriſt is alwaies readieſt to help his people, when they are in moſt danger.</p>
+               <p>Righteouſneſs is called a Breaſt-plate, not ours, but
+<pb n="103" facs="tcp:121326:57"/>Chriſts: the beſt way then is to ſhelter our ſelves in Chriſt.</p>
+               <p>When there is a ſtorm abroad, you ſhall finde them all ſecure that have ſecurity in Chriſt.</p>
+               <p>Take Tower in Chriſt as ſoon as poſſible, there is no ſecurity in any other ſtrength or Tower.</p>
+               <p>The name of the Lord is the godly mans Tower, and the wicked mans Terror.</p>
+               <p>A wicked man goes unto it as a ſhelter in trouble; and counts it a priſon in peace.</p>
+               <p>A godly man runs into it, and
+<pb n="104" facs="tcp:121326:58"/>counts it a ſweet thing to bee houſed in a ſtorm.</p>
+               <p>If thou beeſt Chriſts in a time of peace, hee will bee thy Tower in a time of trouble.</p>
+               <p>Thoſe that are under the go<g ref="char:EOLhyphen"/>vernment of Chriſt, are ſure to bee provided for by Chriſt.</p>
+               <p>Unto whom Chriſt is a King to rule them, he is a ſtrong tower to ſecure them.</p>
+               <p>Chriſts power is beyond the diſtreſſes of his people.</p>
+               <p>Our difficult work is Chriſts work.</p>
+               <pb n="105" facs="tcp:121326:58"/>
+               <p>If thou wouldeſt not fear temporal judgements when they come, ſtrengthen thy faith, and bee much in prayer before they come.</p>
+               <p>As faith gets up, ſo fear gets down; the ſtrength of fear is from weakneſs of faith.</p>
+               <p>All our ſpiritual ſwouns come from unbelief.</p>
+               <p>The way for a Chriſtian not to act his fear, is to act his faith.</p>
+               <p>The creature is not much to bee feared.</p>
+               <p>You cannot fear man too
+<pb n="106" facs="tcp:121326:59"/>much, but you fear God too little.</p>
+               <p>The main ſin that brings de<g ref="char:EOLhyphen"/>ſtruction upon men, is truſting to men, and not to God.</p>
+               <p>Fear addes much to our vexa<g ref="char:EOLhyphen"/>tion, nothing to our ſafety.</p>
+               <p>When fear prevails, take a promiſe, and plead it by faith.</p>
+               <p>If you go to the Father by prayer, you need not fear peace through the Son.</p>
+               <p>Make the Lord of hoſts your fear, and you ſhall have him for your ſanctuary.</p>
+               <pb n="107" facs="tcp:121326:59"/>
+               <p>You muſt ſanctify God, and make him your fear and your dread, and he will ſanctuary and ſafe-guard you.</p>
+               <p>In evill times God will have a ſpecial care of his own people.</p>
+               <p>That man is too big for all evils, that is great in God.</p>
+               <p>Hee that dwells in God for ſanctification, ſhall dwell in him for preſervation.</p>
+               <p>Hee that walketh uprightly, ſhall dwell on high, and his place ſhall bee in the Rock.</p>
+            </div>
+            <div type="part">
+               <pb n="108" facs="tcp:121326:60"/>
+               <p>THe times of the Church<g ref="char:EOLhyphen"/>es calamities are the times of wicked mens inſolencies and blaſphemies.</p>
+               <p>When the Church ſuffers, there ſhould be a veil of ſorrow drawn over thy eyes.</p>
+               <p>Look not what the world doth, but what God would have thee to do.</p>
+               <p>Be not afraid or diſcouraged, though ſometimes our Ark doth move upon very troubleſome waters: Victory in the end ſhall bee on the Churches ſide.</p>
+               <pb n="109" facs="tcp:121326:60"/>
+               <p>The Church is taken for the whole number of Gods Elect, effectually called into a fellow<g ref="char:EOLhyphen"/>ſhip with Chriſt, through ſancti<g ref="char:EOLhyphen"/>fication and belief of the truth.</p>
+               <p>What ever the difference is between the enimies of the Church and the Church, Chriſts party ſhall overcome.</p>
+               <p>On whoſe ſide doſt thou think God doth ingage him<g ref="char:EOLhyphen"/>ſelf.</p>
+               <p>Is not the Sea able to quench a coal of fire?</p>
+               <p>One acting of a grace, ſome<g ref="char:EOLhyphen"/>times is ſufficient to deſtroy an
+<pb n="110" facs="tcp:121326:61"/>enimy, <hi>Heb.</hi> 11.33, 34.</p>
+               <p>The Church of Chriſt in this life, is like a ſhip upon the Sea.</p>
+               <p>The ſhip hath goodly ſails, the Church hath admirable gra<g ref="char:EOLhyphen"/>ces.</p>
+               <p>If there bee not a gale, the ſhip cannot ſtear: ſo notwith<g ref="char:EOLhyphen"/>ſtanding all the Churches gra<g ref="char:EOLhyphen"/>ces, it cannot move from faith to virtue without the freſh ac<g ref="char:EOLhyphen"/>tings and breathings of God up<g ref="char:EOLhyphen"/>on thoſe graces.</p>
+               <p>The ſhip is a trading veſſel, and ſo the Church: They are
+<pb n="111" facs="tcp:121326:61"/>the great trades-men for hea<g ref="char:EOLhyphen"/>ven.</p>
+               <p>The ſhip is the onely ſafe place, out of the Church there is no ſafety.</p>
+               <p>The Church of God, though it bee toſſed and tumbled, yet it hath an Anchor, the blood of Chriſt.</p>
+               <p>The ſhip in compariſon of the ſea, is but a little thing; yet it is above the water: ſo the Church in compariſon of the world, is but a handfull of men; yet it hath an Ark, the Lord Je<g ref="char:EOLhyphen"/>ſus Chriſt.</p>
+               <pb n="112" facs="tcp:121326:62"/>
+               <p>In every new danger, the people of God are apt to forget their former deliverance.</p>
+               <p>The proper time of fear is in thy proſperity, and the time to believe, when other helps fail.</p>
+               <p>There is all in God in the want of all.</p>
+               <p>The life of a Chriſtian as a Chriſtian, is to live out of him<g ref="char:EOLhyphen"/>ſelf.</p>
+               <p>As the graft of a tree lives upon the root, ſo a Chriſtian by faith lives upon Chriſt.</p>
+               <pb n="113" facs="tcp:121326:62"/>
+               <p>You muſt provide for a trou<g ref="char:EOLhyphen"/>bling time, as well as a healing time.</p>
+               <p>Prophane perſons will make troubleſome times: with ſuch <hi>David</hi> had to deal, their words pierced nearer his heart than their ſwords.</p>
+               <p>When a people are not hea<g ref="char:EOLhyphen"/>led by their troubles, they muſt expect to be troubled in their healings.</p>
+               <p>Obſerve this, whereſoever there is faith, there is a quiet ſoul, firſt or laſt.</p>
+            </div>
+            <div type="part">
+               <pb n="114" facs="tcp:121326:63"/>
+               <p>THe top of a Chriſtians joy is not in outward, earthly, but ſpiritual things.</p>
+               <p>They which are moſt acquain<g ref="char:EOLhyphen"/>ted with carnal mirth, are great<g ref="char:EOLhyphen"/>eſt ſtrangers to ſpiritual joy.</p>
+               <p>Every grace, as it is the ex<g ref="char:EOLhyphen"/>preſſion of Gods love, ſo it is the ſpring of our joy.</p>
+               <p>Wee may joy in theſe things below, but they muſt not bee our ſpring and ſea, the ſpring from which they come, and the ſea to which they tend.</p>
+               <p>Joy, it ſets the ſoul upon wing for heaven: what is the nature of
+<pb n="115" facs="tcp:121326:63"/>your joy? doth it make you fly up or fly out?</p>
+               <p>Curſed is that joy that makes God ſad, eat and drink, and riſe up to play, and not riſe up to pray and praiſe God, and your table will bee your ſnare, your death.</p>
+               <p>There is a deſperate propen<g ref="char:EOLhyphen"/>ſion and active forwardneſs in the affection of joy, to run out upon ſuch things that are ſinful.</p>
+               <p>Let not that bee the matter of your joy, which is the fruit of your ſin.</p>
+               <p>Do not make that the matter
+<pb n="116" facs="tcp:121326:64"/>of thy joy, which ſhould bee the matter of thy humiliation.</p>
+               <p>The ſins of others, the ca<g ref="char:EOLhyphen"/>lamities of others.</p>
+               <p>God allows us to rejoyce in creature-comforts, and lawful liberties, ſo it bee done lawful<g ref="char:EOLhyphen"/>ly.</p>
+               <p>It is not the thing rejoyced in, but the manner of rejoycing, that makes our joy criminal and ſinful.</p>
+               <p>Though the Scripture allows thee to rejoyce, yet it forbids ſinful rejoycing.</p>
+               <pb n="117" facs="tcp:121326:64"/>
+               <p>It is a ſinful thing to rejoyce in a creature for it ſelf.</p>
+               <p>Joy ſinfully acted, is when the ſweetneſs of the creature is not a means to lead thee unto God, but as an object to ſatis<g ref="char:EOLhyphen"/>fie thee without God.</p>
+               <p>Creatures are not given pro<g ref="char:EOLhyphen"/>perly to bee injoyed, but to bee uſed and directed to a fur<g ref="char:EOLhyphen"/>ther end.</p>
+               <p>You are not to bound and ter<g ref="char:EOLhyphen"/>minate your comforts in them.</p>
+               <p>You cannot joy in any thing for it ſelf, but you make it a God</p>
+               <pb n="118" facs="tcp:121326:65"/>
+               <p>Delight is a glory proper to God as God.</p>
+               <p>Joy naturally centers it ſelf in the things of this life.</p>
+               <p>A natural man doth not take occaſion to rejoyce from the creature, but hee reſts his joy in the creature.</p>
+               <p>Do not you over-joy in the things of this life, but joy in this; that your name is written in the book of life.</p>
+               <p>Your heart cannot bee over<g ref="char:EOLhyphen"/>much taken, or beſt pleaſed with that which is not beſt with<g ref="char:EOLhyphen"/>out ſin.</p>
+               <pb n="119" facs="tcp:121326:65"/>
+               <p>Though outward comforts are good in themſelves, and ſo occaſions of joy, yet they are not good enough for the joy of thy heart to bee taken up at, or to bee taken up with.</p>
+               <p>As wee may quickly be more taken with theſe things than they are worth, ſo our joy can<g ref="char:EOLhyphen"/>not but exceed.</p>
+               <p>Worldly comforts, ſince the fall ſuit ſo well with our carnal humours, that while wee deal about them, wee cannot but feed too heartily on them, and drink more deep of that cup than wee ought.</p>
+               <pb n="120" facs="tcp:121326:66"/>
+               <p>It is a lawful thing to take pleaſure in lawful things, but they are made unlawful to us, when much of our time is eaten up in eating and drinking.</p>
+               <p>Time is ſhort, and time is pre<g ref="char:EOLhyphen"/>cious, and time imployed in a<g ref="char:EOLhyphen"/>cting our joy on creature-com<g ref="char:EOLhyphen"/>forts, it is to fit us for better joys.</p>
+               <p>A day of proſperity muſt not be a day of joy, when we have gone a whoring from God, <hi>Hoſ.</hi> 9.1.</p>
+               <p>In regeneration and ſanctifi<g ref="char:EOLhyphen"/>cation, the affection of joy is re<g ref="char:EOLhyphen"/>newed.</p>
+               <pb n="121" facs="tcp:121326:66"/>
+               <p>A new creature, and a new joy.</p>
+               <p>It is the godly mans practice to make heavenly things his chiefeſt joy.</p>
+               <p>Joy rectified, rejoyces in no<g ref="char:EOLhyphen"/>thing contrary unto God, in no<g ref="char:EOLhyphen"/>thing above God, in nothing equal unto God, in all things for God.</p>
+               <p>Make God, and Chriſt, and the Word, the center and com<g ref="char:EOLhyphen"/>placency of thy ſoul, the rule and reaſon of all thy delight in other things.</p>
+               <p>In a word, delight in ſpiritual
+<pb n="122" facs="tcp:121326:67"/>things firſt and laſt, onely and moſt.</p>
+            </div>
+            <div type="part">
+               <p>ALL the Saints in this life, ſome way or other, they have or they ſhall have their af<g ref="char:EOLhyphen"/>flictions.</p>
+               <p>That father that doth alwaies dandle his childe upon his lap, may be a fond father, but hee is but a fooliſh father.</p>
+               <p>God in his wiſdome, he will not let us bee alwaies dandled upon the lap of pleaſure.</p>
+               <p>God loves his children, yet he makes not wantons of them</p>
+               <pb n="123" facs="tcp:121326:67"/>
+               <p>Wee have a mixture of grace and ſin, therefore wee muſt have a mixture of mercy and af<g ref="char:EOLhyphen"/>fliction.</p>
+               <p>Sorrow ſhall never ceaſe to bee, untill ſin ceaſe to bee.</p>
+               <p>The leaſt ſin is a greater evill than the greateſt affliction: therefore God makes uſe of af<g ref="char:EOLhyphen"/>fliction to cure his people of their ſin.</p>
+               <p>A wicked man is bad under affliction, a childe of God never better.</p>
+               <p>A roſe is never ſo ſweet as un<g ref="char:EOLhyphen"/>der the Still.</p>
+               <pb n="124" facs="tcp:121326:68"/>
+               <p>Faith gets more by affliction, than mercy.</p>
+               <p>Faith gets more love by mer<g ref="char:EOLhyphen"/>cy, but more ſtrength by affli<g ref="char:EOLhyphen"/>ction.</p>
+               <p>The leſs a childe of God hath of affliction, the leſs of faith and patience.</p>
+               <p>The more the Bullock is ac<g ref="char:EOLhyphen"/>cuſtomed to the yoke, the more quiet.</p>
+               <p>There is not ſo much danger of ſpiritual pride under afflicti<g ref="char:EOLhyphen"/>ons, as under mercies.</p>
+               <p>Affliction laies the ſoul low
+<pb n="125" facs="tcp:121326:68"/>in humility, but lifts it up in hea<g ref="char:EOLhyphen"/>venly mindedneſs.</p>
+               <p>
+                  <hi>Whom have I in heaven but thee?</hi>
+               </p>
+               <p>God may condemn a man to proſperity in this life, ſo as that proſperity ſhal both increaſe and ſecure his ruine.</p>
+               <p>As God ſometimes ſcatters his bleſſings in wrath, ſo now and then hee throws away his rod in wrath.</p>
+               <p>Gods judgements may be ſe<g ref="char:EOLhyphen"/>cret to the perſons afflicted; they cannot be injurious: they come not by chance, but by ſpecial
+<pb n="126" facs="tcp:121326:69"/>direction from God.</p>
+               <p>For a man to ſay, it is my chance, or my hard hap, is the language of <hi>Aſhdod,</hi> of a <hi>Phili<g ref="char:EOLhyphen"/>ſtine.</hi> 1 <hi>Sam.</hi> 6.9.</p>
+               <p>Afflictions, as they are the candle of the Lord, whereby hee ſearches our hearts, and makes inquiry into our lives: ſo they are the voyce of the Lord, that wee would ſearch and try our hearts too.</p>
+               <p>When God ſmites, hee doth as it were judge thee, and thoſe afflictions command thee to judge thy ſelf.</p>
+               <pb n="127" facs="tcp:121326:69"/>
+               <p>As the inſtructing voyce of af<g ref="char:EOLhyphen"/>fliction is, that God is diſplea<g ref="char:EOLhyphen"/>ſed: ſo the exhorting voice is, ſeek my face.</p>
+               <p>Every laſh is, ſeek and pray.</p>
+               <p>Seek Gods face more than the removal of Gods judgements.</p>
+               <p>Hee doth not lay on ſo much as hee is able to afflict, but a the Saints are able to bear.</p>
+               <p>God will either bring down the Saints afflictions to their ſtrength, or raiſe up their ſtrength to their afflictions.</p>
+               <p>Now if thou beeſt not the
+<pb n="128" facs="tcp:121326:70"/>better for being the worſe, thou maieſt ſuſpect thy ſelf.</p>
+               <p>Thou needeſt no other art of memory beſides miſery.</p>
+               <p>If ſmarting here will ſave from ſmarting hereafter; refuſe not the chaſtening of the Lord, neither bee grieved at his cor<g ref="char:EOLhyphen"/>rection.</p>
+               <p>When Gods hand is on thy back, let thy hand bee on thy mouth.</p>
+               <p>When the father hath the rod in his hands, the childe falls upon his knees.</p>
+               <pb n="129" facs="tcp:121326:70"/>
+               <p>Let <hi>Judah</hi> repent of the evill of her waies, and God will re<g ref="char:EOLhyphen"/>pent of the evill of his puniſh<g ref="char:EOLhyphen"/>ments.</p>
+               <p>Providence layes the pla<g ref="char:EOLhyphen"/>ſter, but grace makes the cure.</p>
+               <p>The work of the Devil is to deſtroy us, the work of grace is to try us.</p>
+               <p>God hath a great deal of ho<g ref="char:EOLhyphen"/>nour, not onely by the truth of grace, but by the trial of grace.</p>
+               <p>Whereſoever God chaſtiſeth, there hee is, there hee is in mer<g ref="char:EOLhyphen"/>cy.</p>
+               <pb n="130" facs="tcp:121326:71"/>
+               <p>By affliction hee ſeparates the ſin that hee hates, from the ſinner that hee loves.</p>
+               <p>Hee that continues faithful unto death, ſhall receive a crown of life.</p>
+               <p>The ready way to the crown, is by the croſs.</p>
+               <p>Thoſe that are ſaved ſouls, are moſt of them afflicted ſouls.</p>
+            </div>
+            <div type="part">
+               <p>THe glory of our hereafter glory, will bee in oneneſs of communion with the Father, Son, and Spirit, and one another
+<pb n="131" facs="tcp:121326:71"/>in God, who is one in all, and all in one.</p>
+               <p>Death to the Saints, is a guide to convey them to happineſs: to the wicked as a Jaylor, to carry them to the place of exe<g ref="char:EOLhyphen"/>cution.</p>
+               <p>It is good for us to bee here, ſaith <hi>Peter;</hi> but it is better for mee to depart, ſaith St. <hi>Paul.</hi>
+               </p>
+               <p>Here wee are like <hi>Martha,</hi> cumbered about many things; there wee are like <hi>Mary,</hi> at the feet of our Saviour.</p>
+               <p>If you live holily, like a ſound Chriſtian upon earth, you ſhall
+<pb n="132" facs="tcp:121326:72"/>live happily, like the glorious Angels in heaven.</p>
+               <p>It is the peculiar priviledge of the Saints to appear in glory when Chriſt appears.</p>
+               <p>Redemption of the ſoul from ſin, was the end of Chriſts firſt coming; redemption of the bo<g ref="char:EOLhyphen"/>dies of the Saints, is the end of Chriſts ſecond coming.</p>
+               <p>The bodies of the Saints are members of Chriſt, joyned in a myſtical and perpetual union unto Chriſt.</p>
+               <p>Union and intimate relation to Jeſus Chriſt, as it is the
+<pb n="133" facs="tcp:121326:72"/>ground of, ſo it infallibly infers communication of grace and glo<g ref="char:EOLhyphen"/>ry from Chriſt.</p>
+               <p>Seeing the union of the body is certain, the glory of the bo<g ref="char:EOLhyphen"/>dy is certain likewiſe.</p>
+               <p>The bodies of the Saints are in part ſanctified by Chriſts firſt coming, and therefore ſhall bee hereafter glorified by his ſecond coming.</p>
+               <p>Sanctification begun is a fore<g ref="char:EOLhyphen"/>runner of glorification hereaf<g ref="char:EOLhyphen"/>ter.</p>
+               <p>A man that would reap glo<g ref="char:EOLhyphen"/>ry, muſt ſow grace.</p>
+               <pb n="134" facs="tcp:121326:73"/>
+               <p>The beſt of a Chriſtian is to come.</p>
+               <p>The ſtate of a Chriſtian is no<g ref="char:EOLhyphen"/>thing in real poſſeſſion, to what it is in reverſion.</p>
+               <p>The onely way for thee to make good proviſion for thy ſoul, is to bee a Saint.</p>
+               <p>And here is your duty.</p>
+               <p n="1">1 To live in unity, <hi>Eph.</hi> 4.3.</p>
+               <p>
+                  <hi>Endeavouring to keep the unity of the Spirit, in the bond of peace.</hi>
+               </p>
+               <p n="2">2 To keep the Saints compa<g ref="char:EOLhyphen"/>ny, <hi>Pſal.</hi> 16.3.</p>
+               <p>
+                  <hi>But to the Saints that are in the
+<pb n="135" facs="tcp:121326:73"/>earth, and to the excellent, in whom is all my delight.</hi>
+               </p>
+               <p n="3">3 To pray for the Saints, <hi>E<g ref="char:EOLhyphen"/>pheſ.</hi> 6.18.</p>
+               <p>
+                  <hi>Praying alwaies, with all prayer and ſupplication in the Spirit, and watching thereunto, with all per<g ref="char:EOLhyphen"/>ſeverance and ſupplication for all Saints.</hi>
+               </p>
+               <p n="4">4 To have the bowels of com<g ref="char:EOLhyphen"/>paſſion towards all the Saints, <hi>Phil.</hi> 2.1, 2.</p>
+               <p>
+                  <hi>If there bee therefore any con<g ref="char:EOLhyphen"/>ſolation in Chriſt, if any comfort of love, if any fellowſhip of the Spirit, if any bowels of mercies, fulfil yee my joy, that yee be like minded, having the ſame love, be<g ref="char:EOLhyphen"/>ing
+<pb n="136" facs="tcp:121326:74"/>of one accord, of one minde.</hi>
+               </p>
+               <p n="5">5 To help thy brother out of ſin, <hi>Gal.</hi> 6.1.</p>
+               <p>
+                  <hi>Brethren, if a man be overtaken in a fault, yee which are ſpiritual, reſtore ſuch an one in the Spirit of meekneſs, conſidering thy ſelf, leſt thou alſo be tempted.</hi>
+               </p>
+               <p n="6">6 To provoke to goodneſs, <hi>Heb.</hi> 10.24.</p>
+               <p>
+                  <hi>And let us conſider one another to provoke to love and good works.</hi>
+               </p>
+               <p n="7">7 To relieve the Saints, <hi>Act.</hi> 4.34, 35.</p>
+               <p>
+                  <hi>Neither was there any among them that lacked: for as many as were poſſeſſors of lands, or hou<g ref="char:EOLhyphen"/>ſes,
+<pb n="137" facs="tcp:121326:74"/>ſold them, and brought the prices of the things that were ſold, and laid them down at the Apo<g ref="char:EOLhyphen"/>ſtles feet, and diſtribution was made to every man according as he had need.</hi>
+               </p>
+               <p n="8">8 To imitate the Saints, ſo far as you have Chriſt for an ex<g ref="char:EOLhyphen"/>ample, 1 <hi>Cor.</hi> 11.1.</p>
+               <p>
+                  <hi>Be ye followers of mee, even as I alſo am of Chriſt.</hi>
+               </p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:121326:75"/>
+            <head>Books ſold by <hi>Eliſha Wal<g ref="char:EOLhyphen"/>lis,</hi> at the gilded Horſ<g ref="char:EOLhyphen"/>ſhooe in he <hi>Old Taylor.</hi>
+            </head>
+            <p>MR. <hi>Caryll</hi> his expoſition on the fourth, fifth, ſixth, ſeventh, twenty ſeaventh, twen<g ref="char:EOLhyphen"/>ty eighth, twenty ninth, thirty, and thirty firſt chapters of the book of <hi>Job,</hi> in <hi>Quarto.</hi>
+            </p>
+            <p>Mr. <hi>Robinſons</hi> Chriſtian Ar<g ref="char:EOLhyphen"/>mour, <hi>Octo.</hi>
+            </p>
+            <p>Mr. <hi>Ellis</hi> his Paſtor and the Clark, or a debate (real) con<g ref="char:EOLhyphen"/>cerning Infant-Baptiſm, where<g ref="char:EOLhyphen"/>in, 1 the truth of the doctrine is afreſh cleared, 2 the Scrip<g ref="char:EOLhyphen"/>tures
+<pb facs="tcp:121326:75"/>alledged for it, vindicated, 3 the objections uſual briefly anſwered, 4 the ſeeds-men of them truly ciphered, together with ſome retractations of the Authour and repentings, in re<g ref="char:EOLhyphen"/>ference to the late civil and ec<g ref="char:EOLhyphen"/>cleſiaſtical changes, <hi>Octo.</hi>
+            </p>
+            <p>A vindication of the Civil Magiſtrates power and authori<g ref="char:EOLhyphen"/>ty in matters of Religion, with a refutation of the toleration of all Religions among Chriſtians, with the judgement of the re<g ref="char:EOLhyphen"/>formed Churches concerning the ſame, <hi>Quarto.</hi>
+            </p>
+            <p>Dr. <hi>Thomas Taylors</hi> works in two volumes, in <hi>folio.</hi>
+            </p>
+            <pb facs="tcp:121326:76"/>
+            <list>
+               <label>Firſt Volume.</label>
+               <item>
+                  <list>
+                     <item>1 An expoſition on Chriſts temptations.</item>
+                     <item>2 On <hi>Peters</hi> Sermon before <hi>Cornelius.</hi>
+                     </item>
+                     <item>3 Circumſpect walking.</item>
+                     <item>4 A three-fold Alphabet of rules for Chriſtian practiſe.</item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <label>Second Volume.</label>
+               <item>
+                  <list>
+                     <item>1 An expoſition on the 32 <hi>Pſalm.</hi>
+                     </item>
+                     <item>2 The parable of the ſower.</item>
+                     <item>3 A map of <hi>Rome.</hi>
+                     </item>
+                  </list>
+               </item>
+            </list>
+            <p>With ſeveral other Sermons.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="half_title">
+            <pb facs="tcp:121326:76"/>
+            <p>The Dying Fathers Living Legacy.</p>
+            <pb facs="tcp:121326:77"/>
+         </div>
+      </back>
+   </text>
+</TEI>
